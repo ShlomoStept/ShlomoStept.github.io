@@ -1,0 +1,35 @@
+- profile:
+  initials: SS
+  name: Shlomo Stept
+  profession: Student
+  image: images/profile.jpg
+  location: NYC Area, USA
+  relocation: False
+  company: Stevens Institute of Technology
+  for_hire: true
+  focus: Machine Learning and AI
+  focus_url: https://www.fast.ai/
+  about: |
+    Currently, I am a Full time student at Stevens Institute of Technology, studying Computer Science and Applied Mathematics.
+
+    I am looking for an In-person or remote Internship for the Summer of 2022.
+    My Fall Coursework includes the following: Algorithms, Machine Learning: Fundamentals & Applications, Linear Algebra, and Intermediate Statistics.
+    I have Experience programing in C++, Python, Java, and Scheme.
+
+    Feel free to contact me
+  skills:
+    - C++
+    - Java
+    - Python
+    - SQL
+    - Shell/Bash
+  tools:
+    - VSCode
+    - GitHub
+    - MySql
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
+

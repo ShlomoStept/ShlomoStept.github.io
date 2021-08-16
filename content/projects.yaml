@@ -1,0 +1,20 @@
+- name: Java MySql Communication Package
+  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
+  description: This project is a java package that simplifies communication between a Java program and the MySQL Database. 
+  status: in progress
+  tags:
+    - Java
+    - MySQL
+  icon: Github
+  image: images/database2.png
+
+- name: Active Recall Scheduler for Students 
+  url: https://github.com/todo
+  description: TO DO !!
+  status: live 
+  tags:
+    - Java
+    - Java-Swing
+    - SQL
+  icon: website
+  image: images/activerecall.png
