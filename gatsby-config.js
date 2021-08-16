@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/ShlomoStept.github.io",
   siteMetadata: {
     description: "Personal page of Shlomo Stept",
     locale: "en",

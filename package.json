@@ -6,6 +6,7 @@
   "author": "Wojciech Kocjan <wojciech@kocjan.net>",
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "clean": "gatsby clean",
     "develop": "gatsby develop"
@@ -15,5 +16,8 @@
     "gatsby": "^3.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
