@@ -27,6 +27,7 @@
     - VSCode
     - GitHub
     - MySql
+    - Apache Derby
   budget:
     currency: $
     min: 5
