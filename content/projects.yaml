@@ -9,12 +9,13 @@
   image: images/database2.png
 
 - name: Active Recall Scheduler for Students 
-  url: https://github.com/todo
-  description: TO DO !!
+  url: https://github.com/ShlomoStept/Active-Recall-Scheduler
+  description: Active Recall Scheduler is a desktop-based, scheduling application that Tracks and Schedules spaced repetition study sessions based on an original learning date. 
   status: live 
   tags:
     - Java
     - Java-Swing
     - SQL
+    - Apache Derby 
   icon: website
   image: images/activerecall.png
