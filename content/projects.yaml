@@ -1,13 +1,3 @@
-- name: Java MySql Communication Package
-  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
-  description: This project is a java package that simplifies communication between a Java program and the MySQL Database. 
-  status: in progress
-  tags:
-    - Java
-    - MySQL
-  icon: Github
-  image: images/database2.png
-
 - name: Active Recall Scheduler for Students 
   url: https://github.com/ShlomoStept/Active-Recall-Scheduler
   description: Active Recall Scheduler is a desktop-based, scheduling application that Tracks and Schedules spaced repetition study sessions based on an original learning date. 
@@ -19,3 +9,14 @@
     - Apache Derby 
   icon: website
   image: images/activerecall.png
+
+- name: Java MySql Communication Package
+  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
+  description: This project is a java package that simplifies communication between a Java program and the MySQL Database. 
+  status: in progress
+  tags:
+    - Java
+    - MySQL
+  icon: Github
+  image: images/database2.png
+
