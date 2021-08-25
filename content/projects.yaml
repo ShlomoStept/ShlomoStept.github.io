@@ -1,6 +1,6 @@
 - name: Active Recall Scheduler for Students 
   url: https://github.com/ShlomoStept/Active-Recall-Scheduler
-  description: Active Recall Scheduler is a desktop-based, scheduling application that Tracks and Schedules spaced repetition study sessions based on an original learning date. 
+  description: Active Recall Scheduler is a desktop-based application that, Tracks and Schedules spaced repetition study sessions based on an original learning date. 
   status: live 
   tags:
     - Java
