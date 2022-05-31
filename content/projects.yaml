@@ -7,9 +7,31 @@
     - Java-Swing
     - SQL
     - Apache Derby 
-  icon: website
+  icon: github
   image: images/activerecall.png
-
+  
+- name: mergepdf 
+  url: https://github.com/ShlomoStept/mergepdf
+  description: Script to merge multiple pdfs into one.
+  status: live 
+  tags:
+    - Bash
+    - Python
+  icon: github
+  image: images/bash.png
+  
+- name: Soundle - a Musical Wordle Game
+  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
+  description: This Musical Wordle Game was built with a great team of fellow students, as our semester project for CS-555.
+  status: live
+  tags:
+    - React
+    - JavaScript
+    - Python
+    - Django
+  icon: github
+  image: images/<TODO>.png
+  
 - name: Java MySql Communication Package
   url: https://github.com/ShlomoStept/Java-Sql-Communication-package
   description: This project is a java package that simplifies communication between a Java program and the MySQL Database. 
@@ -17,6 +39,7 @@
   tags:
     - Java
     - MySQL
-  icon: Github
+  icon: github
   image: images/database2.png
+  
 
