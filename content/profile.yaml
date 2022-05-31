@@ -10,24 +10,26 @@
   focus: Machine Learning and AI
   focus_url: https://www.fast.ai/
   about: |
-    Currently, I am a Full time student at Stevens Institute of Technology, studying Computer Science and Applied Mathematics.
+    Hello, I'm Shlomo, currently I am a Full time student at Stevens Institute of Technology, studying Computer Science, Machine Learning and Mathematics.
 
-    I am looking for an In-person or remote Internship for the Summer of 2022.
-    My Fall Coursework includes the following: Algorithms, Machine Learning: Fundamentals & Applications, Linear Algebra, and Intermediate Statistics.
+    I am curently working at Hanover as an Intern for the Summer of 2022.
+    My Fall Coursework includes the following: CS courses on Security, Theory of Computation, and Artificial Intelligence as well as a senior project and an Advanced Statistics course.
     I have Experience programing in C++, Python, Java, and Scheme.
 
     Feel free to contact me
   skills:
+    - C
     - C++
     - Java
+    - OCaml
     - Python
     - SQL
     - Shell/Bash
   tools:
     - VSCode
-    - GitHub
+    - Git/GitHub
     - MySql
-    - Apache Derby
+    - Jupyter Notebook
   budget:
     currency: $
     min: 5
