@@ -6,7 +6,7 @@
   location: NYC Area, USA
   relocation: False
   company: Stevens Institute of Technology
-  for_hire: true
+  for_hire: False
   focus: Machine Learning and AI
   focus_url: https://www.fast.ai/
   about: |
