@@ -21,7 +21,7 @@
   image: images/bash.png
   
 - name: Soundle - a Musical Wordle Game
-  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
+  url: https://github.com/CS-555-Team-3/CS_555_Team-3
   description: This Musical Wordle Game was built with a great team of fellow students, as our semester project for CS-555.
   status: live
   tags:
