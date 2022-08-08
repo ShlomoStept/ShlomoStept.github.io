@@ -16,8 +16,9 @@
     My Fall Coursework includes the following: CS courses on Security, Theory of Computation, and Artificial Intelligence as well as a senior project and an Advanced Statistics course.
     
     I have Experience programing in C, C++, Python, OCaml, Java, Shell/Bash, JavaScript, and Scheme. 
-    and adept with the Pytorch, Keras, Numpy, Pandas, OpenCV, Pillow, and HuggingFace-Transformer libraries.
-    In addition, I’m proficient with the following technologies : Azure Machine Learning Studio, Git/Github, Docker, React, Django, Jupyter Notebooks, VS-Code, MySQL, Vim, AutoCad, Fusion-360
+    I'm adept with the Pytorch, Keras, Numpy, Pandas, OpenCV, Pillow, and HuggingFace-Transformer libraries.
+
+    In addition, I’m proficient with the following Technologies: Azure Machine Learning Studio, Git/Github, Docker, React, Django, Jupyter Notebooks, VS-Code, MySQL, Vim, AutoCad, Fusion-360
 
     I enjoy using Linux over MacOS, and (gd-help me) Windows.
 
@@ -31,10 +32,10 @@
     - SQL
   tools:
     - Azure ML Studio
+    - Docker
     - VSCode
     - Git/GitHub
     - MySql
-    - Docker
   budget:
     currency: $
     min: 5
