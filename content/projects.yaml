@@ -1,6 +1,6 @@
 - name: Custom Trained A Large Language Model for summarization 
   url: https://huggingface.co/sysresearch101/t5-large-finetuned-xsum-cnn
-  description: Customized (Finetuned) a T5-Large Language model for summarization, that ranks third (rouge-score) on the xsum dataset, trailing only Facebook's Bart-Large-Xsum and Google's Pegasus-Xsum (see : https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=xsum , make sure to select Task : Summarization and, Sorting Metric : Rouge Score). Currently has over 675 downloads in the last month.
+  description: Customized (Finetuned) a T5-Large Language model for summarization, that ranks third (rouge-score) on the xsum dataset, trailing only Facebook's Bart-Large-Xsum and Google's Pegasus-Xsum. Currently has over 675 downloads in the last month.
   status: live 
   tags:
     - Large Language Models
