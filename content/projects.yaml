@@ -1,3 +1,28 @@
+- name: Custom Trained A Large Language Model for summarization 
+  url: https://huggingface.co/sysresearch101/t5-large-finetuned-xsum-cnn
+  description: Customized (Finetuned) a T5-Large Language model for summarization, that ranks third (rouge-score) on the xsum dataset, trailing only Facebook's Bart-Large-Xsum and Google's Pegasus-Xsum (see : https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=xsum , make sure to select Task : Summarization and, Sorting Metric : Rouge Score). Currently has over 675 downloads in the last month.
+  status: live 
+  tags:
+    - Large Language Models
+    - T5-Large-Base
+    - XSum & CNN Dataset
+    - Hugging Face
+  icon: github
+  image: images/text_summarizer.png
+  
+ - name: Automated Archive Finder for HackerNews Posts
+  url: <TODO>
+  description: A Bot that searches for and posts links to archived versions of articles after scanning all of HackerNews' top articles for those that contain a link to a site that requires a subscription.
+  status: live 
+  tags:
+    - Python
+    - Networking
+    - API
+    - Web Scraping
+    - Automated Bot
+  icon: github
+  image: images/Cute_baby_robot_playing_with_a_laptop.png
+
 - name: Active Recall Scheduler for Students 
   url: https://github.com/ShlomoStept/Active-Recall-Scheduler
   description: Active Recall Scheduler is a desktop-based application that, Tracks and Schedules spaced repetition study sessions based on an original learning date. 
@@ -18,7 +43,7 @@
     - Bash
     - Python
   icon: github
-  image: images/merge_7.png
+  image: images/merge_pdfs.png
   
 - name: Soundle - a Musical Wordle Game
   url: https://github.com/CS-555-Team-3/CS_555_Team-3
