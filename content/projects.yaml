@@ -18,7 +18,8 @@
     - Python
     - Networking
     - API
-    - Automated Bots & Web Scraping
+    - Web Scraping
+    - Automated Bots 
   icon: github
   image: images/Cute_baby_robot_playing_with_a_laptop.png
 
@@ -55,4 +56,13 @@
     - Django
   icon: github
   image: images/<TODO>.png
-
+  
+- name: Java MySql Communication Package
+  url: https://github.com/ShlomoStept/Java-Sql-Communication-package
+  description: This project is a java package that simplifies communication between a Java program and the MySQL Database. 
+  status: in progress
+  tags:
+    - Java
+    - MySQL
+  icon: github
+  image: images/database2.png
