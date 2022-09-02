@@ -11,7 +11,7 @@
   image: images/text_summarizer.png
 
 - name: Automated Archive Finder for HackerNews Posts
-  url: <TODO>
+  url: https://github.com/ShlomoStept/hn_bot
   description: A Bot that searches for and posts links to archived versions of articles after scanning all of HackerNews' top articles for those that contain a link to a site that requires a subscription.
   status: live 
   tags:
