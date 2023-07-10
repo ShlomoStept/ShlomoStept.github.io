@@ -10,20 +10,19 @@
   focus: Machine Learning and AI
   focus_url: https://www.fast.ai/
   about: |
-    Hello, I'm Shlomo, I am a Senior at Stevens Institute of Technology, studying Computer Science, with a focus on Machine Learning and Mathematics.
+    I'm Shlomo, a machine learning engineer with a passion for researching and implementing the latest ML papers and models to advance my knowledge. I work with companies to create custom AI solutions and am an active member of the Duck AI research group, in addition to my day job.
 
-    I just completed my Summer 2022, Machine Learning Engineering Internship at The Hanover Insurance Group.
-    
-    My Fall Coursework includes CS courses on Security, Theory of Computation, and Artificial Intelligence as well as a Senior Project and an Advanced Statistics course.
-    
-    I have Experience programing in C, C++, Python, Shell/Bash, OCaml, Java, Scheme, and JavaScript. 
-    I'm adept with the Pytorch, Keras, Numpy, Pandas, OpenCV, Pillow, and HuggingFace-Transformer libraries.
+    In Spring 2023, I graduated Summa Cum Laude from Stevens Institute of Technology with a Bachelor of Science degree in Computer Science, focusing on Machine Learning.
 
-    In addition, I’m proficient with the following Technologies: Azure Machine Learning Studio, Git/Github, Docker, React, Django, Jupyter Notebooks, VS-Code, MySQL, AutoCad, and Fusion-360
+    My technical skills include programming languages such as Python, C++, C, Go, Java, and Scheme. 
+    I'm also proficient with libraries like PyTorch, Keras, Numpy, Pandas, OpenCV, Pillow, and HuggingFace-Transformer, 
+    as well as technologies like Git/Github, Docker, Django, Nextjs, Vercel, and Azure Machine Learning Studio.
 
     I enjoy using Linux over MacOS, and (gd-help me) Windows.
 
-    Feel free to contact me
+    Don't hesitate to contact me for more information. 
+    
+    Be sure to check out my new website and blog where (coming soom) I'll discuss my ML experiments, papers, and models.
   skills:
     - C
     - C++

@@ -1,12 +1,14 @@
-- name: Custom Trained A Large Language Model for Text-Summarization 
+- name: Trained State of the Art BERT-XSum Large Language Model for Text-Summarization- currently ranked #4 behind Google and Facebook
   url: https://huggingface.co/sysresearch101/t5-large-finetuned-xsum-cnn
-  description: Customized (Finetuned) a T5 Large-Language-Model for Summarization, that ranks third (rouge-score) on the xsum dataset, trailing only Facebook's Bart-Large-Xsum and Google's Pegasus-Xsum. Currently has over 675 downloads in the last month.
+  url: https://paperswithcode.com/sota/summarization-on-xsum
+  description: Customized (Finetuned) a T5 Large-Language-Model for Summarization, that ranks third (rouge-score) on the xsum dataset, trailing only Facebook's Bart-Large-Xsum and Google's Pegasus-Xsum. 
   status: live 
   tags:
     - Large Language Models
     - T5-Large-Base
     - XSum & CNN Dataset
     - Hugging Face
+    - State of the Art Ranking of #4 sysresearch101/t5-large-finetuned-xsum-cnn
   icon: github
   image: images/text_summarizer.png
 
